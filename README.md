@@ -68,7 +68,7 @@ I would setup observability with grafana, prometheus and thanos.
 
 ## Requisites
 
-node.js v23.x
+node.js v23.x or higher
 
 
 ## Installation
